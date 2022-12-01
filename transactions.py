@@ -7,3 +7,7 @@ num2=100
 print(id(num2))
 num3=10
 print(id(num3))
+num4=90
+print(id(num4))
+num5=100
+print(id(num5))
