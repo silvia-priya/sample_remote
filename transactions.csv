@@ -1,0 +1,17 @@
+Txno,Txndate,Userno,Amount,Product,City,Pay
+1,01-20-2013,400100,100,Exercise & Fitness,clarksville,credit
+2,02-22-2013,400100,2000,Exercise & Fitness,clarksville,credit
+3,03-07-2013,400212,300,Exercise & Fitness,long beach,cash
+5,05-11-2013,400104,450,Exercise & Fitness,clarksville,cash
+7,03-15-2013,400212,1374,Outdoor Recreation,charleston,credit
+8,04-08-2014,400327,415,Water Sports,columbus,credit
+10,11-19-2013,400978,421,Team Sports,Petersburg,credit
+11,11-09-2013,400743,279,Combat sports,Reno,credit
+12,12-23-2013,400743,123,Jumping,columbus,cash
+13,12-27-2015,400527,500,Water Sports,columbus,credit
+14,07-14-2013,400743,212,Exercise & Fitness,Honolulu,credit
+16,08-30-2013,400078,103,Water Sports,Honolulu,credit
+17,09-29-2013,400428,20,Gymnastics,Columbia,cash
+18,06-13-2016,400428,234,Exercise & Fitness,Omaha,credit
+19,05-21-2013,400675,120,Team Sports,Petersburg,cash
+20,02-12-2013,400428,200,puzzles,New York,credit
